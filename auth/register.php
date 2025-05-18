@@ -25,4 +25,4 @@
     </div>
 </div>
 
-<?php include '/app/sso/footer.php'; ?>
+<?php include 'footer.php'; ?>
