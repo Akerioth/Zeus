@@ -1,6 +1,6 @@
 <?php
 session_start();
-include '/conf/dbconf.php';
+include './conf/dbconf.php';
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $username = trim($_POST['username']);

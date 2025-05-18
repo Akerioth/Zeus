@@ -1,5 +1,5 @@
-<?php include '/conf/dbconf.php'; ?>
-<?php include '/app/sso/header.php'; ?>
+<?php include './conf/dbconf.php'; ?>
+<?php include 'header.php'; ?>
 
 <div class="container mt-5">
     <div class="row justify-content-center">
